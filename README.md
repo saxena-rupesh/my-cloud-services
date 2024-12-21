@@ -1,2 +1,2 @@
 # my-cloud-services
-Project contains a few samples services hosted on AAWS cloud
+The project contains a few sample services hosted on the AWS cloud
