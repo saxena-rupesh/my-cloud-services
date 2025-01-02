@@ -12,7 +12,7 @@
 	<artifactId>explore-travel-packages-images</artifactId>
 	<version>3.0.0</version>
 	<name>explore-travel-packages-images</name>
-	<description>Explore California Spring Boot Mongodb Project</description>
+	<description>Explore Travel Packages Spring Boot Mongodb Project</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>

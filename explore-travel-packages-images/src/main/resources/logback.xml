@@ -2,6 +2,6 @@
 <configuration>
 
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
-    <logger name="com.example.explorecalijpa" level="DEBUG"/>
+    <logger name="com.rupeshs.travel.packages.images" level="DEBUG"/>
 </configuration>
 
